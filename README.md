@@ -50,5 +50,6 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR TH
 
 # Questions
 
-If you have any questions about the repo, open an issue or contact me directly at rob.thomp15@gmail.com. You can find more of my work at [Rob-Thompson-Git](https://github.com/Rob-Thompson-Git/).
+If you have any questions about the repo, open an issue or contact me directly at rob.thomp15@gmail.com. 
+You can find more of my work at [Rob-Thompson-Git](https://github.com/Rob-Thompson-Git/).
 
