@@ -2,7 +2,9 @@
 
 # Password Generator
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)<br>
+
 Deployed Application: https://rob-thompson-git.github.io/password-generator/
+
 # Description
 
 This is a password generator app utilizing HTML, CSS, and vanilla JavaScript. When the app is opened via deployed application link, users will be asked several prompts asking if they want to include lowercase, uppercase, numbers, and how long they would like their password to be (8-128 characters).
